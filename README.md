@@ -22,5 +22,3 @@ Run Vite Frontend: http://localhost:5173
 ```
 npm run dev
 ```
-
-## Reflection
